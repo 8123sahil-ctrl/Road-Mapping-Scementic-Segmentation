@@ -1,0 +1,2 @@
+recursive-include road_segmentation *.onnx
+recursive-include road_segmentation *.onnx.data
